@@ -1,6 +1,7 @@
 # cli 工具基础库
 
 ## 目录
+```md
 espresso-cli
 ├─ .gitignore
 ├─ README.md
@@ -23,3 +24,10 @@ espresso-cli
 │     └─ spinner.ts // 控制台loading
 ├─ tsconfig.json // TypeScript配置文件
 └─ tslint.json // tslint配置文件
+```
+## 安装
+```js
+```
+## 初始化项目
+```js
+```
